@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+label {
+    font-weight: bold;
+}
+
+input {
+    border: 3px solid black;
+}
+
+#gt {
+    background-color: blue;
+    color: aliceblue;
+    cursor: pointer;
+    border-radius: 999px;
+    padding: 10px 15px;
+    border: none;
+}
+
+/*CV CSS*/
+header {
+    background-color: #1e2a38;
+    padding: 5px;
+}
+
+header h1 {
+    margin: 10px;
+    padding: 5px;
+    color: #ffffff;
+    text-align: center;
+}
+
+#Top {
+    background-color: #d9e1e8;
+    display: flex;
+}
+
+.photo img {
+    margin: 15px 200px 40px 140px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.inform h2 {
+    font-size: xx-large;
+    margin-top: 10px;
+    color: #1e2a38;
+}
+
+.rinform h2 {
+    font-size: xxx-large;
+    margin-bottom: 20px;    
+    text-align: center;
+}
+
+
+.inform pre {
+    margin: 30px;
+    font-size: x-large;
+    line-height: 3;
+    font-style: normal;
+    font-weight: bolder;
+    color: #2a3f55;
+    width: 200px;
+}
+
+
+
+.rinform {
+    font-size: x-large;
+    margin-top: 20px;
+    color: #1e2a38;
+    text-align: center;
+    padding: 0 20px 20px;
+
+}
+
+.rinform ul b {
+    font-size: xx-large;
+}
+
+.rinform ul {
+    list-style-type: none;
+
+}
+#skills{
+
+}
+#skills .skills-list{
+    display: flex;
+    
+}
+
+#skills rinform h2{
+    display: flex;
+    text-align: center;
+}
+
+     
